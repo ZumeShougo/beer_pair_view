@@ -52,3 +52,6 @@
 #### メイン機能実装：9/1〜11/2
 #### β版をRUNTEQ内で実装：11/10 〆
 #### 本番リリース：11/24 〆
+
+## 画面遷移URL
+<https://www.figma.com/file/RzOkBffd5BV2lbvB7FcjqT/beer_pair_view?node-id=0%3A1>
