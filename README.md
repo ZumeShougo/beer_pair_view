@@ -56,3 +56,6 @@
 
 ## 画面遷移URL
 <https://www.figma.com/file/RzOkBffd5BV2lbvB7FcjqT/beer_pair_view?node-id=0%3A1>
+
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/b325fd5ce86e0f22843cab3838f066ec.png)](https://gyazo.com/b325fd5ce86e0f22843cab3838f066ec)
